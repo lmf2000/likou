@@ -13,6 +13,7 @@ public class Solution {
     public void test() {
         System.out.println(reconstructQueue(new int[][]{{7, 0}, {4, 4}, {7, 1}, {5, 0}, {6, 1}, {5, 2}}));
         System.out.println("hot-fix edit");
+        System.out.println("master edit");
     }
 
     public int[][] reconstructQueue(int[][] people) {
